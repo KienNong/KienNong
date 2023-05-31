@@ -1,6 +1,6 @@
 ### About me: 👋
 
-🧑‍🎓🎓 I am a student at Saigon University and I am expected to graduate in 2024.
+🎓 I am a student at Saigon University and I am expected to graduate in 2024.
 
 🌱 I’m currently learning CS, ML, DL.
 
